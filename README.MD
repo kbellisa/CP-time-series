@@ -1,0 +1,5 @@
+CP - Loud Sound Event
+
+We investigated the animal acoustic community’s response to a loud sound event (LSE), a multi-day cannon blast display as part of a Civil War reenactment, at an urban historical park with a restored prairie in the Midwestern United States. We assessed the condition before, during and then after the LSE using passive acoustic recorders, soundscape metrics, and listen-and-scored species calls using ARIMA time-series modeling. We validated acoustic index measures with vocal indicator species (common bird species) richness. A comparison of forecasts and actual post-event observations showed a difference in observed acoustic activity as measured by an acoustic index and vocal indicator species’ accumulation curves.
+
+We collected recordings at an urban park, calculated an acoustic metric for those samples, and compared the metric values to predicted values using time series analysis to see if change occurred. To validate the results, we used species estimation models and statistical tests.
